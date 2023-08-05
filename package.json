@@ -1,0 +1,19 @@
+{
+  "name": "designpatterns",
+  "version": "1.0.0",
+  "description": "design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedkamalR/Design-Patterns.git"
+  },
+  "author": "Ahmed Kamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedkamalR/Design-Patterns/issues"
+  },
+  "homepage": "https://github.com/AhmedkamalR/Design-Patterns#readme"
+}
